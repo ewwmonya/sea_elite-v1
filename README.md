@@ -1,9 +1,3 @@
-Perfect — here’s a first draft for you:  
-I'll keep it **clean**, **actionable**, and **easy to follow** like a real project README ✅  
-(but you can tell me if you want a second version that's even more checklist-style later!)
-
----
-
 # 🧭 Sea Elite Website / Catalogue Build - Step-by-Step Guide
 
 ## 📂 1. Project Setup

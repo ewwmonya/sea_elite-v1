@@ -8,9 +8,9 @@ I'll keep it **clean**, **actionable**, and **easy to follow** like a real proje
 
 ## 📂 1. Project Setup
 
-- [✅] Initialize a new **Next.js** project
-- [✅] Install **shadcn/ui** for components and styling
-- [✅] Set up **TailwindCSS** (if not bundled already)
+- [ X ] Initialize a new **Next.js** project
+- [ X ] Install **shadcn/ui** for components and styling
+- [ X ] Set up **TailwindCSS** (if not bundled already)
 - [ ] Create project folder structure:
   - `/components`
   - `/app` (or `/pages` depending on routing)

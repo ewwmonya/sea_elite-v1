@@ -12,6 +12,7 @@ const items = [
 	{ id: 1, name: 'scout BCD' },
 	{ id: 2, name: 'scout BCD' },
 	{ id: 3, name: 'scout BCD' },
+	{ id: 4, name: 'scout BCD' },
 ];
 export default function Home() {
 	return (

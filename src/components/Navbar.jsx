@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 const Navbar = () => {
 	return (
-		<div className='flex flex-nowrap mx-7 items-center justify-between md:justify-between md:mx-32'>
-			<h1 className='text-2xl font-black'>
+		<nav className='flex flex-nowrap mx-7 items-center justify-between md:justify-between md:mx-32 my-10'>
+			<h1 className='text-2xl md:text-4xl font-black'>
 				Sea <span className='text-sky-700'>Elite</span>
 			</h1>
 			<div className='flex justify-between gap-3 '>
@@ -18,7 +18,7 @@ const Navbar = () => {
 					</button>
 				</Link>
 			</div>
-		</div>
+		</nav>
 	);
 };
 export default Navbar;

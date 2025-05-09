@@ -1,8 +1,10 @@
 'use client';
-import { useCategories } from '@/context/CategoryContext';
+import { useCategories } from '../context/category/CategoryContext';
 import { XIcon } from 'lucide-react';
 import Link from 'next/link';
 import { useState } from 'react';
+import { fetchCategories } from '../lib/fetchCategories';
+fetchCategories();
 
 export function CatsOnHomePage() {
 	const { state } = useCategories();

@@ -1,7 +1,7 @@
 'use client';
 import { categoryReducer } from './categoryReducer';
 import { createContext, useContext, useReducer } from 'react';
-import products from '../lib/products';
+import products from '../../lib/products';
 
 const allCategories = products.reduce((total, product) => {
 	const { category } = product;

@@ -6,7 +6,7 @@ import {
 	CardFooter,
 	CardContent,
 } from '@/components/ui/card';
-import { Hero } from './../components/homePage/hero';
+import { Hero } from '../components/home/hero';
 import { Button } from '@/components/ui/button';
 import products from '../lib/products';
 import Image from 'next/image';
